@@ -4,3 +4,4 @@ phigros_userdata.json
 error_*.txt
 unpack-result
 unpack-temp
+py3.12/
